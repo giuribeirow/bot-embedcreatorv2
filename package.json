@@ -1,0 +1,19 @@
+{
+  "name": "bot-embedcreator",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Painel profissional Discord: Config Bot + Criador de Embeds",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node --check src/index.js"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "discord.js": "14.24.2",
+    "dotenv": "16.6.1"
+  }
+}

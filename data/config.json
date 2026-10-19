@@ -1,0 +1,13 @@
+{
+  "ownerId": "id-do-dono",
+  "authorizedUsers": [],
+  "authorizedRoles": [],
+  "status": "online",
+  "presence": null,
+  "rotation": {
+    "enabled": false,
+    "intervalSeconds": 60,
+    "index": 0,
+    "activities": []
+  }
+}
